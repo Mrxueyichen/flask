@@ -1,0 +1,11 @@
+[
+    {
+        "_id": "player1",
+        "name": "Alice",
+        "score_history": [
+            30,
+            100,
+            60
+        ]
+    }
+]
